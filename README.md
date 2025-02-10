@@ -1,6 +1,11 @@
+
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...
+)](https://rishavchanda.io
+)
+
 <h1 align="center">Hi 👋, I'm ANURAN PRADHAN</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
-(img align="right" alt="Coding" width="400" src="[[[https://cdn.dribbble.com/users/116207...](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZAizao1Sp9dR_vaiaVvol6nr5pk-kr9YW4Q&s)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZAizao1Sp9dR_vaiaVvol6nr5pk-kr9YW4Q&s)](https://i.pinimg.com/550x/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.jpg)")
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuranpradhan&label=Profile%20views&color=0e75b6&style=flat" alt="anuranpradhan" /> </p>
 
