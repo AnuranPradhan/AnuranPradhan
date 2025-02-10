@@ -18,9 +18,9 @@
 <a href="https://www.linkedin.com/in/anuran-pradhan-234407277/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Anuran Pradhan" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100084439403647" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anuran pradhan" height="30" width="40" /></a>
 <a href="https://www.instagram.com/anuranpradhan/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anuranpradhan" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/anuran pradhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anuran pradhan" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/anuran pradhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="anuran pradhan" height="30" width="40" /></a>
-<a href="https://discord.gg/anuran pradhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="anuran pradhan" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/anuranpradhan002/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anuran pradhan" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/anurananyt6m/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="anuran pradhan" height="30" width="40" /></a>
+<a href="https://discord.com/channels/@me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="anuran pradhan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
